@@ -25,6 +25,7 @@ arvedpom
 ClaasMenke
 
 # Gruppe_H
+AdrianMorawietz
 
 # Gruppe_I
 LuccaJade
