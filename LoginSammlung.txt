@@ -45,6 +45,7 @@ Jasmin4
 AdrianMorawietz
 ThorbenJanssen
 lennartbruns
+Lennart-Meyer
 
 # Gruppe_I
 LuccaJade
