@@ -42,5 +42,6 @@ ma6198
 
 # Gruppe_L
 Yi Xu
+JanRipken
 
 # Gruppe_M
