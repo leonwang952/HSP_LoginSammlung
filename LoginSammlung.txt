@@ -46,8 +46,6 @@ Jasmin4
 AdrianMorawietz
 ThorbenJanssen
 lennartbruns
-=======
->>>>>>> 9c3e41c463e21f02bb9ba13f5d35366b3e67e9aa
 Lennart-Meyer
 
 # Gruppe_I
