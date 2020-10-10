@@ -42,7 +42,6 @@ Xinmiao-Wang
 Jasmin4
 
 # Gruppe_H
-<<<<<<< HEAD
 AdrianMorawietz
 ThorbenJanssen
 lennartbruns
